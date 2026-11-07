@@ -4,6 +4,8 @@ Landing page for a fictional Nashville bakery. Built with plain HTML, CSS and Ja
 
 **Goal of the page:** get a visitor to place an online order.
 
+**Live site:** https://kelly455.github.io/sunday-crust/
+
 ## Features
 - Mobile-first responsive layout (tested at 375px and 1440px)
 - Live order total with validated form (quantities, name, 10-digit phone, pickup date)
