@@ -16,5 +16,8 @@ Landing page for a fictional Nashville bakery. Built with plain HTML, CSS and Ja
 ## Notes
 - Demo only: no payment is processed and no order is sent anywhere.
 - Reviews are labeled sample reviews.
-- Photos: Unsplash (credit photographers here).
+- Hero photo: Sue Winston on Unsplash.
+- Donuts photo: Kivanc Erdirik on Unsplash.
+- Carrot cake photo: Sheri Silver on Unsplash.
+- Cookies photo: Kaouther Djouada on Unsplash.
 - Template used for layout reference only; no code copied.
